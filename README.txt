@@ -1,3 +1,4 @@
+#NQUEENS-SOLVER
 In chess, a queen can attack horizontally, vertically, and diagonally.
 The N-queens problem asks: How can N queens be placed on an NxN chessboard so that no two of them attack each other?
 The idea is to place queens one by one in different columns, starting from the leftmost column. When we place a queen in a column, 
